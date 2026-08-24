@@ -1,0 +1,2 @@
+#Python is a high level programming language it is good for beginners to understand it as it is specifically designed to be easily understandable to humans
+print("Learning pythong is useful it will help in many roles and it is very easy to understand as it is high level programming language")
