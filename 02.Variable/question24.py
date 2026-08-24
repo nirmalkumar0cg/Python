@@ -1,3 +1,3 @@
-my_name = "Govind"
-my_age = 17
-my_city = "Kanpur"
+my_name = "Nirmal"
+my_age = 19
+my_city = "Varanasi"
