@@ -1,0 +1,10 @@
+product_name="mouse"
+product_quantity=1
+product_price=129.99
+is_product_available=True
+product_discount=None
+print(type(product_name))
+print(type(product_quantity))
+print(type(product_price))
+print(type(is_product_available))
+print(type(product_discount))
